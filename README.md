@@ -1,1 +1,1 @@
-# landmark_image_search
+# detector-for-masked-faces
