@@ -1,1 +1,6 @@
-# detector-for-masked-faces
+## Building An Accurate Detector for Masked Faces in the Pandemic Era
+
+#### Summary
+Since March, Covid-19 has taken a heavy toll on American societies. As suggested by the health experts and the governments, having everyone in the community wear a mask can help mitigate the risk of asymptomatic people spreading the virus. To improve people’s awareness and help businesses monitor the points of entrance and enforce the social distancing policies, society calls for better contactless monitoring and identity verification methods.
+In such a situation, corresponding masked face detection algorithms can be designed to help monitor whether people wear masks while in public places, such as markets, groceries, and offices. Furthermore, non-masked face recognition and masked-face recognition could be explored separately. We can also extend non-masked face recognition to more complex environments, and multi-face with the background can be one possible way. Given the limited time and resources, the project may touch 2-3 sections mentioned above.
+We will utilize the Real-World Masked Face Dataset from Github, which includes real-world masked faces, faces with simulated masks, and non-masked faces. CNN is considered the most common deep learning method in facial recognition, and we will adopt the idea of transfer learning and begin with a pre-trained CNN model.
