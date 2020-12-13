@@ -1,0 +1,5 @@
+All the same as models before
+encodeing:
+Junmei: 0
+Tony:1
+Zishen: 2
